@@ -1,0 +1,12 @@
+/*.o
+/*.hi
+/*.hp
+/*.ps
+/*.aux
+/.gitignore~
+/*.*~
+/Main
+/Main.hs
+/*.prof
+/MainAfterLeak
+/MainBeforeLeak
